@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trevor Bushnell</title>
+    <link>https://trevorbushnell.github.io/</link>
+    <description>Recent content on Trevor Bushnell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://trevorbushnell.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://trevorbushnell.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trevorbushnell.github.io/about/</guid>
+      <description>To be edited later</description>
+    </item>
+    
+    <item>
+      <title>Bingo Board Generators</title>
+      <link>https://trevorbushnell.github.io/projects/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trevorbushnell.github.io/projects/chapter-1/</guid>
+      <description>Under construction</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://trevorbushnell.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trevorbushnell.github.io/contact/</guid>
+      <description>Email: For direct contact
+LinkedIn: Keep up with my professional career and interact with me via direct messaging
+GitHub: Directly scroll through my various projects that I have completed
+YouTube: Various videos on math concepts, data science tools, and other tech that I find fascinating
+Twitch: I occassionally stream my progress on my various projects that I work on - stop by if you are interested in watching me work live!</description>
+    </item>
+    
+    <item>
+      <title>Data Science Resources</title>
+      <link>https://trevorbushnell.github.io/projects/chapter-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trevorbushnell.github.io/projects/chapter-5/</guid>
+      <description>Under construction</description>
+    </item>
+    
+    <item>
+      <title>League of Legends Project</title>
+      <link>https://trevorbushnell.github.io/projects/chapter-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trevorbushnell.github.io/projects/chapter-3/</guid>
+      <description>Under construction</description>
+    </item>
+    
+    <item>
+      <title>MonkeyType Data Project</title>
+      <link>https://trevorbushnell.github.io/projects/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trevorbushnell.github.io/projects/chapter-2/</guid>
+      <description>Under construction</description>
+    </item>
+    
+    <item>
+      <title>Numerical Methods in Julia</title>
+      <link>https://trevorbushnell.github.io/projects/chapter-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trevorbushnell.github.io/projects/chapter-4/</guid>
+      <description>Under construction</description>
+    </item>
+    
+    <item>
+      <title>STEM Notes</title>
+      <link>https://trevorbushnell.github.io/projects/chapter-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trevorbushnell.github.io/projects/chapter-6/</guid>
+      <description>Under construction</description>
+    </item>
+    
+  </channel>
+</rss>
