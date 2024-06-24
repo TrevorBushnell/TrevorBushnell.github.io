@@ -12,4 +12,4 @@ My first introduction to choral music was through this beautiful melody written 
 
 Whenever I get overwhelmed, Be Still My Soul is the hymn I constantly return to in order to calm myself down. As such, I wanted to write my own arrangement of the song that I could have for my own solace. The music features the constant internal struggles that I feel through tight, boxed-in harmonies and the constant play between the F major and D minor chords that make up a majority of the harmonies of the second verse.
 
-![Me](/images/be-still-my-soul-preview.png)
+![Be Still My Soul Preview](/images/be-still-my-soul-preview.png)
