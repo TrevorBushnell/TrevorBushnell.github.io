@@ -1,4 +1,10 @@
-# Top 10 Songs I Performed in Undergraduate Choir
+---
+description: "My favorite songs and memories from my collegiate choral experience"
+featured_image: ""
+tags: []
+date: "2024-07-01"
+title: "Top 10 Songs I Performed in Undergrad Choir"
+---
 
 INTRO CONTENT TO GO HERE
 
@@ -21,7 +27,7 @@ CONTENT TO GO HERE
 ## #8: O Come Emmanuel (Robert Shaw)
 
 * Semester performed: every Candlelight Christmas Concert!
-* Ensemble: ALl choirs!
+* Ensemble: ALL choirs!
 * Here's Robert Shaw's choir singing the piece
 
 CONTENT TO GO HERE
@@ -62,8 +68,9 @@ CONTENT TO GO HERE
 
 There were so manys songs that I wish I could include on this list, but in an effort to not make this post too long some cuts had to be made. Nevertheless, here are a few songs that were really close to making the list:
 
-* **Beati Quorum Via, Gaudete in Domino, My Spirit Sang All Day:** Surprisingly, no songs from my tour from Italy with the Chamber Choir made it onto this list. These 3 songs were my favorites from the ones they took on tour. These songs always sounded the best in the various churches and basilicas we sang in. Gauduete in Domino was my favorite because we sang the piece in the basicila where the composer was buried!
-* **Ubi Caritas (Durufle), I Wonder as I Wander (Rutter):** I didn't weant this list to completely turn into Christmas music so I refrained from adding these. However, these songs are near and dear to my heart and they were an absolute blast to perform on our Candlelight Christmas concert.
+* **The Music of Stillness:** Sung with Chamber Choir in Spring 2022, this song is just absolutely gorgeous. Many of you know I have mixed feelings about my preferences of Elaine Hagenberg's works, but this one is a Trevor-certified banger. This is a song that I am keeping in my repertoire for when I have my own choir, as I would love to conduct this piece.
+* **Beati Quorum Via, Gaudete in Domino, My Spirit Sang All Day:** Surprisingly, no songs from my tour from Italy with the Chamber Choir made it onto this list. These 3 songs were my favorites from the ones we took on tour, and they always sounded the best in the various churches and basilicas we sang in. Gauduete in Domino was my favorite because we sang the piece in the basilica where the composer was buried!
+* **Ubi Caritas (Durufle), I Wonder as I Wander (Rutter):** I didn't want this list to completely turn into Christmas music so I refrained from adding these. However, these songs are near and dear to my heart and they were an absolute blast to perform on our Candlelight Christmas concerts.
 * **Will the Circle Be Unbroken:** This traditional Appilachian song was an absolute BANGER to sing. I adore this piece, and having a director who spent a decent part of her career in that culture shape the song was really inspiring. It did not make the final list because many people failed to get the song into their bodies and buy into the song, so it lost a bit of its value and impact for me because of that.
 
 Alright, here are the top 3!
@@ -92,4 +99,4 @@ CONTENT TO GO HERE
 
 CONTENT TO GO HERE
 
-There you have it, all of my favorite pieces I sang while I was in the choirs at Gonzaga University. These songs will leave lasting memories for me for the rest of my life, and I can't wait to create even more memories during my graduate studies here at Gonzaga!
+There you have it, all of my favorite pieces I sang while I was in the choirs at Gonzaga University. These songs will leave lasting memories for me for the rest of my life, and I can't wait to create even more memories during my last (???) year here at Gonzaga. Choral music is such a beautiful artform to participate in, both professionally and recreationally. I hope that if you are participating in a choir during your educational experience, you are taking advantage of every moment and keeping your mind alert to learning experiences that will benefit you beyond the classroom. When doing this, you too can look back on your choral experience in undergrad and recall all the memories that made your singing career that much more special :smile:.
