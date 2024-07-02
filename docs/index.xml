@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trevor Bushnell</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Trevor Bushnell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Beginning of a New Career</title>
+      <link>http://localhost:1313/blog/01-transitioning-careers/</link>
+      <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/01-transitioning-careers/</guid>
+      <description>Hi there! If you are reading this, then chances are you&amp;rsquo;ve heard in some way or another about my recent life update&amp;hellip; but yes the rumors have now been worked into reality:&#xA;I am now pursuing a career as a choral director!&#xA;I&amp;rsquo;m pretty excited about this opportunity to actually pursue what I want and continue to get to encourage others to continue singing as a form of artistic expression.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Trevor Bushnell is an aspiring secondary music educator from Spokane, WA. Raised on the west coast of Washington, Trevor learned about his talent for singing through participating in musical theater productions playing roles like Jack Scott from High School Musical, the Tin Man in The Wizard of Oz, and Uncle Fester from The Addams Family.&#xA;Upon arriving to Gonzaga, Trevor fell in love with the art form of choral music.</description>
+    </item>
+    <item>
+      <title>Choral Projects</title>
+      <link>http://localhost:1313/choral_projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/choral_projects/</guid>
+      <description>Bach AI Choir (Spring 2024) As a part of my honors thesis project for my undergrad degree, the Bach AI choir was a chamber ensemble made up of singers from Gonzaga&amp;rsquo;s Concert Choir singing various AI generated Bach chorales. The ensemble sang on my lecture recital aimed at highlighting the differences between Bach and AI choral music and showcasing why choral singing is fundamentally a human artform.&#xA;I had an absolute blast teaching and conducting AI generated music.</description>
+    </item>
+    <item>
+      <title>Compositions</title>
+      <link>http://localhost:1313/compositions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compositions/</guid>
+      <description>Be Still My Soul (SSAA) My first introduction to choral music was through this beautiful melody written by Jean Sibelius. As someone who has struggled with Asperger&amp;rsquo;s syndrome his entire life, I&amp;rsquo;ve had many challenging situations in my life that go unnoticed by most people. Since I&amp;rsquo;ve worked hard to overcome my mental struggles, many people write me off when I make a social mistake and don&amp;rsquo;t understand that many times I genuinely have no idea what I&amp;rsquo;ve done is wrong or hurtful.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Email: For direct contact&#xA;LinkedIn: Keep up with my professional career and interact with me via direct messaging&#xA;YouTube: See my latest musical endeavors and other content that I put together when I desire&#xA;GitHub: I still actively participate in various forms of software development, but you can find all my progress with various computational musicology projects here&#xA;Other Portfolios:&#xA;Tech portfolio - showcasing my projects surrounding data science and software development Leadership portfolio - highlighting key moments in my leadership journey throughout my time at Gonzaga </description>
+    </item>
+  </channel>
+</rss>

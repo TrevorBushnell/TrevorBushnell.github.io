@@ -2,7 +2,7 @@
 description: "My favorite songs and memories from my collegiate choral experience"
 featured_image: ""
 tags: []
-date: "2024-07-01"
+date: "2024-07-25"
 title: "Top 10 Songs I Performed in Undergrad Choir"
 ---
 

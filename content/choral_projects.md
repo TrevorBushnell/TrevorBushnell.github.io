@@ -3,7 +3,6 @@ title: Choral Projects
 featured_image: './images/profile-pic.jpg'
 omit_header_text: true
 description: Various choral projects that I have participated in
-type: page
 ---
 
 ## Bach AI Choir (Spring 2024)

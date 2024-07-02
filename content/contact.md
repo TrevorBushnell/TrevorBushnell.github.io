@@ -3,9 +3,7 @@ title: Contact
 featured_image: ''
 omit_header_text: true
 description: Find me on these platforms!
-type: page
 ---
-
 
 [Email](mailto:tbushnell11@gmail.com): For direct contact
 
@@ -14,4 +12,11 @@ type: page
 [YouTube](https://www.youtube.com/@TrevorBushnell): See my latest musical endeavors and other content that I put together when I desire
 
 [GitHub](https://github.com/TrevorBushnell): I still actively participate in various forms of software development, but you can find all my progress with various computational musicology projects here
+
+
+
+**Other Portfolios:**
+
+* [Tech portfolio](https://TrevorBushnell.github.io/tech-portfolio) - showcasing my projects surrounding data science and software development
+* [Leadership portfolio](https://TrevorBushnell.github.io/leadership-portfolio) - highlighting key moments in my leadership journey throughout my time at Gonzaga
 

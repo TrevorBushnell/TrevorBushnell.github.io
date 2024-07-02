@@ -3,7 +3,6 @@ title: Compositions
 featured_image: ''
 omit_header_text: true
 description: My choral works
-type: page
 ---
 
 ## Be Still My Soul (SSAA)
