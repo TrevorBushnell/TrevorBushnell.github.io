@@ -1,9 +1,10 @@
 ---
 title: Choral Projects
-featured_image: './images/profile-pic.jpg'
-omit_header_text: true
-description: Various choral projects that I have participated in
+featured_image: '/images/conducting_2.jpg'
+description: " "
 ---
+
+![](/images/conducting_1.jpg)
 
 ## Bach AI Choir (Spring 2024)
 
@@ -26,3 +27,5 @@ Concordanza was an eight-person choral a capella group inspired by Voces8. Creat
 Fun story - at the end of our choir trip to Italy, about half the tenors and basses had a 6AM departure flight. On a whim, we decided to pull an all-nighter before heading to the airport. While we were enjoying our last night in Italy, a bunch of us on a whim mentioned barbershop music and we all thought "Hey, why not start a barbershop quartet?"
 
 Well, barbershop we didn't explicitly do, but sing together we did. The ZagTags was a tenor-bass quartet that performed a wide variety of repertoire, from pop to barbershop to even classical music. The group was featured at every choir concert in my senior year of undergrad. Additionally, the group was invited to provide entertainment for various student and community activities throughout the year. We even got the opportunity to perform a work by Gonzaga composition student Lily Franklin (c/o 2027) for the music department's NASM accreditation recital. 
+
+![](/images/zagtags.jpg)

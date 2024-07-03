@@ -1,9 +1,9 @@
 ---
 title: Contact
-featured_image: ''
-omit_header_text: true
-description: Find me on these platforms!
+featured_image: '/images/college_hall_4.jpg'
 ---
+
+![](/images/myrtle_outside_3.jpg)
 
 [Email](mailto:tbushnell11@gmail.com): For direct contact
 
@@ -20,3 +20,4 @@ description: Find me on these platforms!
 * [Tech portfolio](https://TrevorBushnell.github.io/tech-portfolio) - showcasing my projects surrounding data science and software development
 * [Leadership portfolio](https://TrevorBushnell.github.io/leadership-portfolio) - highlighting key moments in my leadership journey throughout my time at Gonzaga
 
+![](/images/self_portrait_2.jpg)

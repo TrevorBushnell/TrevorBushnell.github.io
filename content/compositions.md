@@ -1,9 +1,10 @@
 ---
 title: Compositions
-featured_image: ''
-omit_header_text: true
-description: My choral works
+featured_image: "/images/piano_1.jpg"
+description: " "
 ---
+
+![](/images/piano_2.jpg)
 
 ## Be Still My Soul (SSAA)
 

@@ -6,12 +6,12 @@
     <description>Recent content on Trevor Bushnell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Beginning of a New Career</title>
       <link>http://localhost:1313/blog/01-transitioning-careers/</link>
-      <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/01-transitioning-careers/</guid>
       <description>Hi there! If you are reading this, then chances are you&amp;rsquo;ve heard in some way or another about my recent life update&amp;hellip; but yes the rumors have now been worked into reality:&#xA;I am now pursuing a career as a choral director!&#xA;I&amp;rsquo;m pretty excited about this opportunity to actually pursue what I want and continue to get to encourage others to continue singing as a form of artistic expression.</description>
     </item>
@@ -41,7 +41,7 @@
       <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>Email: For direct contact&#xA;LinkedIn: Keep up with my professional career and interact with me via direct messaging&#xA;YouTube: See my latest musical endeavors and other content that I put together when I desire&#xA;GitHub: I still actively participate in various forms of software development, but you can find all my progress with various computational musicology projects here&#xA;Other Portfolios:&#xA;Tech portfolio - showcasing my projects surrounding data science and software development Leadership portfolio - highlighting key moments in my leadership journey throughout my time at Gonzaga </description>
+      <description>&#xA;Email: For direct contact&#xA;LinkedIn: Keep up with my professional career and interact with me via direct messaging&#xA;YouTube: See my latest musical endeavors and other content that I put together when I desire&#xA;GitHub: I still actively participate in various forms of software development, but you can find all my progress with various computational musicology projects here&#xA;Other Portfolios:&#xA;Tech portfolio - showcasing my projects surrounding data science and software development Leadership portfolio - highlighting key moments in my leadership journey throughout my time at Gonzaga </description>
     </item>
   </channel>
 </rss>
