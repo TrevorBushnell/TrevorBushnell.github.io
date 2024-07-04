@@ -1,6 +1,6 @@
 ---
 title: Compositions
-featured_image: "/images/piano_1.jpg"
+featured_image: "/images/piano_banner_1.jpg"
 description: " "
 ---
 

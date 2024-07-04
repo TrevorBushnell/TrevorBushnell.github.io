@@ -1,5 +1,5 @@
 ---
 title: "Blogs"
 description: ""
-featured_image: '/images/myrtle_outside_1.jpg'
+featured_image: '/images/myrtle_sign_banner_2.jpg'
 ---

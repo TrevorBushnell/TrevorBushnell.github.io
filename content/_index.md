@@ -4,7 +4,7 @@ title: "Trevor Bushnell"
 description: "aspiring choral educator and tenor"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
-featured_image: '/images/college_hall_3.jpg'
+featured_image: '/images/college_hall_banner_1.jpg'
 ---
 
 
@@ -26,13 +26,12 @@ My name is Trevor Bushnell! I'm a tenor from Spokane, WA and a huge choir nerd! 
 1. Computational musicology - how computer programming can be used to aid in the discovery of musical scores and composers
 1. AI choir music - analyzing the quality of AI generated choir music as well as how easy it is for humans to sing
 
-### :musical_note: My Favorite Choral Works :musical_note:
+### :musical_note: My Favorite Choral ______:musical_note:
 
-1. *The Messiah* by Handel
-2. *St. Matthew's Passion* by J.S. Bach
-3. *The Sacred Veil* by Eric Whitacre
-4. "Miserere Mei" by Gregorio Allegri
-5. Anything William Byrd - my favorite choral composer
+* **Work:** Handel's *Messiah*, Bach's *St. Matthew's Passion*, Eric Whitacre's *The Sacred Veil*, and Gregorio Allegri's "Miserere Mei"
+* **Choral Composer:** William Byrd, Eric Whitacre, Jocelyn Hagen
+* **Choral Group:** VOCES8, The King's Singers, Chanticleer
+* **Musical:** Come From Away (overall), The Lion King (for the impressive choral-like music), and Newsies (because yes)
 
 ### 🕒 What I'm Currently Doing 🕒
 
@@ -44,4 +43,4 @@ In my spare time, I write blog articles (published here!) about my experience sh
 
 I also still maintain my work in data science and software development, which you can check out on my [tech portfolio](https://TrevorBushnell.github.io/tech-portfolio).
 
-![](/images/self_port)
+![](/images/myrtle_outside_2.jpg)

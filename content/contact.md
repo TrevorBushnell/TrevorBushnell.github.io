@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: '/images/college_hall_4.jpg'
+featured_image: '/images/college_hall_banner_2.jpg'
 ---
 
 ![](/images/myrtle_outside_3.jpg)

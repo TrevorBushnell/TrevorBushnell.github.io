@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Trevor Bushnell</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://TrevorBushnell.github.io/blog/</link>
     <description>Recent content in Blogs on Trevor Bushnell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://TrevorBushnell.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Beginning of a New Career</title>
-      <link>http://localhost:1313/blog/01-transitioning-careers/</link>
+      <link>https://TrevorBushnell.github.io/blog/01-transitioning-careers/</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/01-transitioning-careers/</guid>
+      <guid>https://TrevorBushnell.github.io/blog/01-transitioning-careers/</guid>
       <description>Hi there! If you are reading this, then chances are you&amp;rsquo;ve heard in some way or another about my recent life update&amp;hellip; but yes the rumors have now been worked into reality:&#xA;I am now pursuing a career as a choral director!&#xA;I&amp;rsquo;m pretty excited about this opportunity to actually pursue what I want and continue to get to encourage others to continue singing as a form of artistic expression.</description>
     </item>
   </channel>
