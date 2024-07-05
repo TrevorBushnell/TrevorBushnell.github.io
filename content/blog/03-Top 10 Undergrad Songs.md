@@ -6,7 +6,7 @@ date: "2024-07-25"
 title: "Top 10 Songs I Performed in Undergrad Choir"
 ---
 
-INTRO CONTENT TO GO HERE
+In the recent months since my career decision, I've been spending lots of time reflecting on the positive experiences I've had through my first bachelor's degree at Gonzaga. It's been a great way to calm myself down about the change to come and remind myself that these last four years have not been a waste. In my time reflecting I've been reminded of the many memories and fantastic songs I've had the honor to sing. There's been some really cool songs that I have had the opportunity to sing as well as songs that have expanded my ears and opinions on what good choral music can sound like. Here are my **top 10 favorite choral songs** I've sung in college, along with the memories, stories, and heartfelt moments I've had with this music.
 
 ## #10: Earth Song (Frank Tichelli)
 
