@@ -42,7 +42,11 @@ Fast forward to the mass performance and I realized that the changes actually wo
 * Ensemble: ALL choirs!
 * Here's Robert Shaw's choir singing the piece
 
-CONTENT TO GO HERE
+O Come Emmanuel is a typical Christmas song that many people for sure know. This arrangement by Robert Shaw is unique due to the reverence communicated in the feel of the music by using thick chords and making use of the chant-part of the original melody. Since Dr. Stohlmann's arrival to Gonzaga, this is how our Candlelight Christmas Concert opens every year. 
+
+The effect that this entrance has an audience is insane. The piece starts with all the tenors and basses singing the melody a capella with the low basses droning an E2 (we added that part for fun). Then, the sopranos come in taking the second verse while the tenors and basses sing the first verse in a tempo that's half the speed of the line of the sopranos and altos. It finally ends with everyone singing at the end of verse 2. Oh and I forgot to mention... we process in with candles from the back of the auditorium. This means that the audience hears the tenors and basses from behind them, then gradually get louder due to us walking through the aisles. The sopranos and altos follow them shortly after at the start of their verse. It's such an epic opener to a concert that is tradition not only for the Gonzaga community but also the greater Spokane community. The processional gives me the energy I need to ride the concert to the very end and have the intensity and focus required of this concert. 
+
+*What I learned:* ... I'm not sure, it was just cool okay? Can I have my moment with how this piece made me feel the two times I sang it?
 
 ## #7: House of the Rising Sun (Joshua Shank)
 
@@ -50,7 +54,15 @@ CONTENT TO GO HERE
 * Ensemble: Glee Club
 * Here's a recording of the piece
 
-CONTENT TO GO HERE
+This is not the piece you think it is. House of the Rising Sun was written by former Glee Club conductor Joshua Shank. He wrote this song because he wanted to find a way to memorialize the victims that died in the UpStairs Lounge in 1973 - an arson in a gay bar that killed 32 members as an attack against the LGBTQIA+ community. 
+
+Everyone in Glee Club was excited because we assumed that we were singing the classic that was made famous by The Animals. However, after Stohlmann made us read the program note left by Dr. Shank in the cover of our music, we realized it was anything but that. The music is actually quite intense and powerful - it makes sense as to why it was written for TTBB voicing because the sheer power needed to express the music really can't come from any other arrangement of voices. Stohlmann also made us watch [a documentary about the UpStairs Lounge fire](https://www.youtube.com/watch?v=BPWrK9Pu7Gk), and the story sickening. Many of the images we had to see were incredibly disturbing, and upon returning to class we all realized that the lyrics perfectly depicted many of the gruesome images that we saw in the documentary. 
+
+This was by far the hardest song I've ever had to sing. Not because of the notes, not because of the dynamics, not because of some other musical reason, but because every time I sang those words I could not get those images out of my head. It's hard to sing a song that communicates so much pain and anguish, and it didn't help that we sang it in 2023 - the 50th anniversary of the incident. 
+
+Why do I love this song so much then? Because I've never seen a group of singers rally behind a song as much as I saw our Glee Club lean into this story. We had many conversations in class about how our personal feelings towards the song, how to communicate the meaning to the audience, and more importantly how to do it the *right* way without simply doing it as any other standard act of allyship. We also had a conversation with Joshua Shank himself to get into his mind when he wrote the piece. The final result at our spring concert was incredibly powerful and inspiring for our audience, and it was received very well.
+
+*What I learned:* It's possible to have productive conversations about music that can translate into performance. I had done this kind of thing before in the past with Concert Choir, but every time it felt forced and not everyone was buying into it. This was the first time where I saw every SINGLE singer in the room buy into a song and how to authentically perform it. 
 
 ## #6: Twa Tanbou (Sydney Guillame)
 
