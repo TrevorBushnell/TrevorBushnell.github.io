@@ -2,7 +2,7 @@
 description: "My favorite songs and memories from my collegiate choral experience"
 featured_image: ""
 tags: []
-date: "2024-07-25"
+date: "2024-07-30"
 title: "Top 10 Songs I Performed in Undergrad Choir"
 ---
 
@@ -14,7 +14,13 @@ In the recent months since my career decision, I've been spending lots of time r
 * Ensemble: Concordanza
 * Check out our recording of the piece!
 
-CONTENT TO GO HERE
+I sang this group with one of the first ensembles I founded. In the midst of a global pandemic and a transition of directors, choir felt in a weird place. A few of us simply wanted a place to be able to sing about the messages and emotions that we wanted to sing about, on our own time and free from the distractions and requirements of the rest of the world. Earth Song was the perfect repertoire choice for us to be able to accomplish those goals. 
+
+Earth Song was written in response to the war in Iraq. The message says that despite the hardships and troubles of our world, music can always be a place of refuge. That was true for us as we were navigating what our choral program would look like, and it was true for the refugees in Ukraine as that crisis had just started. 
+
+Fun fact: we were invited to sing at a banquet for people who donate large sums of money to Gonzaga. Thayne was in one of the tables near the front, and one of my fellow group members claims that he was in tears after we finished this song. But that was awhile ago, maybe I'm misremembering things :wink:.
+
+*What I learned:* Make music for yourself. Collegiate music making is filled with so many competitions, concerts, retreats, and more professional gigs that many times it feels like a job. Remind yourself why you are making music and share in this beautiful artform with your friends.
 
 ## #9: If Ye Love Me (Thomas Tallis)
 
@@ -22,7 +28,13 @@ CONTENT TO GO HERE
 * Ensemble: Concert Choir
 * Check out our recording of the piece!
 
-CONTENT TO GO HERE
+It's not a Trevor Top 10 Choir song list if there isn't any Renaissance music on there. If Ye Love Me by Thomas Tallis was one of the first choir songs that got me addicted to the artform in the first place. I first heard this piece covered by the Kings Singers right at lockdown and I was hooked. If you go back far enough on my Instagram, you can see me singing all four parts with myself... quite poorly though because I was young and did not know what I did not know :sweat_smile:.
+
+Having listened to this song a lot of times, I have a very specific idea in my head about how I thought this song was supposed to go. As such, when we got ready to perform this song at the mass service for the monastery that hosts our choir retreat at the beginning of each year, I was shocked at how much Dr. Stohlmann did things... well not as I expected. The two major differences from what I had listened to were the tempo being much faster than I'm used to - every recording I listened to took it very legato. Additionally, those who listen to the Brits sing this song know that the word "sp'rit" is a hot word to pronounce, and we did not pronounce it in the English way. Having to sing through these changes really messed with my muscle memory and I had to work hard to incorporate those changes into my singing, and I grumbled after every rehearsal when we worked on this. 
+
+Fast forward to the mass performance and I realized that the changes actually worked quite well (shocker!). Considering the space that we were in, the audience that we were singing for, and where our group was at after only 2 weeks of rehearsals, the changes made were actually quite fitting and refreshing. It was a modern take on a well-respected part of the sacred repertoire while still upholding what made the song so special. 
+
+*What I learned:* Find new spins and ways of thinking to rejuvenate older repertoire in order to captivate the modern audience. You'd be surprised what you can get away with that still keeps everyone engaged.
 
 ## #8: O Come Emmanuel (Robert Shaw)
 
