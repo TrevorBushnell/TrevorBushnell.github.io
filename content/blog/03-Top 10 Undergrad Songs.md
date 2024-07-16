@@ -70,7 +70,13 @@ Why do I love this song so much then? Because I've never seen a group of singers
 * Ensemble: Concert Choir
 * Here's us singing this on tour!
 
-CONTENT TO GO HERE
+This song is a story of three drums. Each drum thinks it's the favorite drum, but by the end they all realize it's important to work together as a team. You can tell from the writing which part is which drum, who tries to take center stage, and the moment when everyone realizes it's more fun to work together in order to make beautiful art. 
+
+What's funny is when trying to learn this song, that's *exactly* how it played out in our choir. Everyone was so focused on nailing their own individual part that it was near impossible to put everything together into one coherent story. It got to the point where everyone in the choir was so frustrated with the song there was considerations about removing it from our first concert. 
+
+Then, all of a sudden, as if like MAGIC... the piece just fell into place. Everyone got it and realized how to work together in order to make art. Once we got it, we never wanted to stop singing it. Getting to show off this piece over and over again for various high school students in the Vancouver/Portland area was an absolute blast.
+
+*What I learned:* Trust and also ENJOY the process. We very easily get caught up in how the performance goes, but the work leading up to a performance is just as valuable. Live music is never perfect, and maybe your best take happens in a rehearsal instead of a concert. Keep your eyes, ears, and heart open at every part of the music making process so you can enjoy those special moments right when they happen.
 
 ## #5: O Magnum Mysterium (Morten Lauridsen)
 
@@ -78,7 +84,7 @@ CONTENT TO GO HERE
 * Ensemble: Concert Choir
 * Here's Robert Shaw's choir singing this piece
 
-CONTENT TO GO HERE
+Throughout my four years at Gonzaga, I got the opportunity to sing two bucketlist songs - this one is one of them.
 
 ## #4: Abendlied (Joseph Reinberger)
 
