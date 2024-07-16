@@ -47,7 +47,11 @@ Once you can identify notes on a staff and identify your key signature, you have
 
 ## #1: Know Your Scales
 
-Do you ever why you sing "Do-Re-Mi-Fa-Sol-La-Ti-Do" as a warm-up in choir? Or why your director makes you use it while you are learning a song?
+Do you ever why you sing "Do-Re-Mi-Fa-Sol-La-Ti-Do" as a warm-up in choir? Or why your director makes you use it while you are learning a song? The reason is because solfege outlines a pattern called a *scale.*
+
+A **scale is a set of notes that divides up a specific distance between two notes.** Most of the time this is generally between two of the same notes - i.e. choosing a set of notes between two C's or two A's for example. While there are some scales that don't completely cover the space between two of the same notes (like the pentatonic scale), most choral music uses scales that divide up two of the same note an octave apart. 
+
+One of the most popular scales is called the **major scale.** A major scale uses 7 of the 12 available notes and always follows a specific pattern - W W H W W W H, where W = a whole step and H = a half step. A major scale in C would be C, D, E, F, G, A, B, C. A major scale in Eb would be Eb, F, G, Ab, Bb, C, D. The benefit between is that 
 
 
 
