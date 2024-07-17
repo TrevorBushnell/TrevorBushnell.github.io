@@ -84,7 +84,9 @@ Then, all of a sudden, as if like MAGIC... the piece just fell into place. Every
 * Ensemble: Concert Choir
 * Here's Robert Shaw's choir singing this piece
 
-Throughout my four years at Gonzaga, I got the opportunity to sing two bucketlist songs - this one is one of them.
+Throughout my four years at Gonzaga, I got the opportunity to sing two bucketlist songs - this one is one of them. I'm a big fan of this text specifically, and Lauridsen absolutely nails it on the head with some stunning harmonies on top of this beautiful text. It's also one of the few Tenor 1 lines I really enjoy - there's something special about just getting to float above the altos half the time. Not only that, but the Tenor 1's also have these fascinating harmonies that are vastly different from the rest of the choir and a ball to sing. This was the headliner piece for our Candlelight Christmas concert in 2022, and it landed well with our audience despite 1/3 of our choir being out for COVID for our Sunday performance.
+
+*What I learned:* Clearly I like Christmas music because I was absolutely vibing with this piece, even more than with O Come Emmanuel.
 
 ## #4: Abendlied (Joseph Reinberger)
 
@@ -92,14 +94,20 @@ Throughout my four years at Gonzaga, I got the opportunity to sing two bucketlis
 * Ensemble: Concert Choir
 * VOCES8 has a stunning recording of this piece
 
-CONTENT TO GO HERE
+Abendlied is the other of my two bucket list songs that I've gotten to sing at Gonzaga. If you can't tell by now, I'm a real sucker for sacred choral music. This song is just so peaceful and comforting. It's fun to listen to it and let the serenity wash over you, but it's a whole different perspective when you are completely surrounded by the sound. I also really like how each part has a shining moment and shines in the texture. If the song is performed well, you can hear each part be the star of the show at certain moments without feeling like that part was suddenly thrown at you.
+
+This piece was also interesting to rehearse because our director had us learn this song in smaller octets. Since this song has so many moments where individual parts have their own moment, it's imperative that every member of the ensemble is able to hold their own part and not rely on other singers. Learning in these smaller groups gave us that new sense of confidence. 
+
+Working in an individual group without a director has its benefits, but it definitely also had its drawbacks. It took my group awhile to find a rhythm where everyone was able to express their opinions constructively. Our group had the highest concentration of seniors, so we always had lots of people with great ideas so it was hard to control our group at any given time. After Stohlmann had every group sing in front of the class to show our progress, she told our group that we were the worst one, even though we thought we were doing a good job. Once we listened back on our performance and reflected as a group, we started having massive improvement on how to work together, and ultimately wound up as the best group on subsequent songs that we performed in front of the class. 
+
+*What I learned:* Stay in the moment. I tend to get lost in the music very easily that I'm unaware of what the rest of the singers are doing. Additionally, just enjoy making music with people. Respond to what people are doing, even if it's not what is on the page. Old songs like this are all editorial - you'll always find scores that have a different dynamic marking or crescendo at the same spot. If you can understand the feel of a piece, then you can work with your fellow singers to make a killer rendition of any song that's thrown your way.
 
 ## Honorable Mentions
 
 There were so manys songs that I wish I could include on this list, but in an effort to not make this post too long some cuts had to be made. Nevertheless, here are a few songs that were really close to making the list:
 
 * **The Music of Stillness:** Sung with Chamber Choir in Spring 2022, this song is just absolutely gorgeous. Many of you know I have mixed feelings about my preferences of Elaine Hagenberg's works, but this one is a Trevor-certified banger. This is a song that I am keeping in my repertoire for when I have my own choir, as I would love to conduct this piece.
-* **Beati Quorum Via, Gaudete in Domino, My Spirit Sang All Day:** Surprisingly, no songs from my tour from Italy with the Chamber Choir made it onto this list. These 3 songs were my favorites from the ones we took on tour, and they always sounded the best in the various churches and basilicas we sang in. Gauduete in Domino was my favorite because we sang the piece in the basilica where the composer was buried!
+* **Beati Quorum Via, Gaudete in Domino, My Spirit Sang All Day:** Surprisingly, no songs from my tour in Italy with the Chamber Choir made it onto this list. These 3 songs were my favorites from the ones we took on tour, and they always sounded the best in the various churches and basilicas we sang in. Gauduete in Domino was my favorite because we sang the piece in the basilica where the composer was buried!
 * **Ubi Caritas (Durufle), I Wonder as I Wander (Rutter):** I didn't want this list to completely turn into Christmas music so I refrained from adding these. However, these songs are near and dear to my heart and they were an absolute blast to perform on our Candlelight Christmas concerts.
 * **Will the Circle Be Unbroken:** This traditional Appilachian song was an absolute BANGER to sing. I adore this piece, and having a director who spent a decent part of her career in that culture shape the song was really inspiring. It did not make the final list because many people failed to get the song into their bodies and buy into the song, so it lost a bit of its value and impact for me because of that.
 
@@ -111,7 +119,11 @@ Alright, here are the top 3!
 * Ensemble: Glee Club
 * This won a Cantus composition competition!
 
-CONTENT TO GO HERE
+Time is a tricky piece, but it's SO satisfying to perform, and even more satisfying to listen to as an audience member. The construct of time is weird to experience - oftentimes we don't notice what it does until we've experience time itself. This piece does just that with clever lyrics. The words make sense the first time we sing the verse, but as we repeat the verse we lose words. What's crazy is that even though we lose words, there's still the concept of an idea - but that idea is always changing. It definitely messes with your brain, but once you get it the song becomes a blast to perform. And let me tell you... we got it alright.
+
+I've never seen Glee Club get so excited about performing any song. Everyone understood the meaning of the piece and wanted to do everything in their power to get that message across to our audience. It's pretty rare to see a room full of tenor and bass voices have every singer in the group care about performance. Yet since we all cared about the final product, we performed what I would argue to be the best song on the entire concert. 
+
+*What I learned:* Glee Club is in good hands. When I had joined the group the year prior, it was definitely in a rebuilding stage. After singing this piece, it was clear that the group was in a stable position. They had commrodory and they had a passion for music making, and that will take them far. It made me very proud to see after I spent the last two years investing in the Glee Club.
 
 ## #2: The Dawn (Daniel Schreiner)
 
@@ -119,7 +131,13 @@ CONTENT TO GO HERE
 * Ensemble: Concert Choir
 * This is a newer piece!
 
-CONTENT TO GO HERE
+This piece was pushed into the publishing process so that we could be one of the first choirs to sing this piece. Our director is friends with this composer and sings with him in the pro-choir that she participates in. The piece was commissioned in response to the death of the husband of a member of the aformentioned pro choir. Despite this being a piece to remember the lost, the piece quickly pivots to an attitude of hope and contentment with the future. 
+
+This song really resonated with me because at the time I was not sure what my life would look like when I graduated. The message of this song reminded me that even though things appear dark and grim now, my future will be filled with prosperity, happiness, and contentment. This message, combined with the evaocate music and harmonies brought me to tears every time I sang this piece. It's a miracle that I didn't burst out into tears on stage. 
+
+Even now that I have a better sense of direction in my life, I still go back to our recording of The Dawn to comfort myself whenever I feel I've made a mistake or feel like I'm not good enough to be doing this.
+
+*What I learned:* It's okay to let music speak to me. I'm always so concerned about making sure the audience has a good time that I forget to remember that I can enjoy the benefits of a song too - and I really needed this song in that moment of my life.
 
 ## #1: San Bonani
 
