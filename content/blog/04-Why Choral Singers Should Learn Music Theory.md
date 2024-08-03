@@ -12,7 +12,7 @@ I want to clarify - you technically do NOT need any knowledge of theory to get y
 
 However, I've noticed that the skillset that I've developed in choir has been unique compared to the rest of my colleagues. I've worked really hard to build myself as a good, well-rounded choral musician. As I've done that, I've found that there's been one thing that I've done that has single handedly contributed to the reason as to why I'm as good as I am as a choral artist - *I actually use music theory when I'm learning music.* 
 
-It's important to note that I did **not** say that I can actually sight read well. Don't get me wrong, I'm on the better end of sight readers in the choir. However, I can name a pretty large chunk of Concert Choir that can sight read either better than me or at my level. But when I think about the number of people who are thinking about their scales as they sing, identifying key changes, locating where their part fits into the context of the chord, then I eliminate a lot of people of that better sight reader list. I've found that the skills I've developed in music theory have helped me not only learn, but understand the musical meaning in a piece much faster than anyone else in the choir. 
+It's important to note that I did **not** say that I can actually sight read well. Don't get me wrong, I'm definitely on the better end of sight readers in the choir. However, I can name a pretty large chunk of Concert Choir that can sight read either better than me or at my level. But when I think about the number of people who are thinking about their scales as they sing, identifying key changes, locating where their part fits into the context of the chord, then I eliminate a lot of people of that better sight reader list. I've found that the skills I've developed in music theory have helped me not only learn, but understand the musical meaning in a piece much faster than anyone else in the choir. 
 
 Having a good understanding of music theory allows you to be a more versatile singer that is capable of any job. You can't have a job as a section leader in a church choir if all you have is your ear. Most jobs hand you the music the morning of the service you are about to sing. You get potentially 1-2 run-throughs before the service to learn your music, and then you have to simply nail the music in the service. Hate to break it to you, but your ear alone is never going to save you there - the other singers in the church choir will be as clueless as you are and your ear is not going to be able to latch on to someone who is "correctly" singing your part. You have to be able to correctly sing your part without any help. 
 
@@ -45,15 +45,33 @@ Here's a graphic of what all the key signatures look like if that's more your sp
 
 Once you can identify notes on a staff and identify your key signature, you have all you need to understand the concepts in the rest of this post.
 
+## 0.5: To Address The Hard Core Music People
+
+If you talk to anyone studying music that loves theory, chances are they'll rant to you about this mysterious *Circle of Fifths.* The Circle of Fifths takes every single note and arranges it into a circle, where each note on the circle is an interval of a fifth apart (don't worry, we will talk about intervals later in this post!). They'll die on a hill telling you it's the best thing ever in music and solves all of their musical problems and that everyone should know the circle of fifths. I have a friend who is so in love with it that they go around the school writing it on every whiteboard. 
+
+I too love the Circle of 5ths. I have plenty of thoughts about them and want to write a blog post at some point dedicated entirely to the Circle of 5ths and addressing the lack of education surrounding the WHY. But for now, the main thought that I have about the circle of fiths is this:
+
+> **YOU DON'T NEED THE CIRCLE OF FIFTHS WHEN STARTING OUT**
+
+This is going to cause so many people to be mad at me. While I think it's a great tool, the reality is when I'm handed a new piece of music to interpret on the spot, *the circle of fifths is just not the first essential tool I use.* There's other musical ideas that are a) more basic and b) more practical that give far more leverage in the short term than the circle of fifths does. 
+
+And with that out of the way, I'm done with the extra yapping. Onto the first topic!
+
 ## #1: Know Your Scales
 
 Do you ever why you sing "Do-Re-Mi-Fa-Sol-La-Ti-Do" as a warm-up in choir? Or why your director makes you use it while you are learning a song? The reason is because solfege outlines a pattern called a *scale.*
 
 A **scale is a set of notes that divides up a specific distance between two notes.** Most of the time this is generally between two of the same notes - i.e. choosing a set of notes between two C's or two A's for example. While there are some scales that don't completely cover the space between two of the same notes (like the pentatonic scale), most choral music uses scales that divide up two of the same note an octave apart. 
 
-One of the most popular scales is called the **major scale.** A major scale uses 7 of the 12 available notes and always follows a specific pattern - W W H W W W H, where W = a whole step and H = a half step. A major scale in C would be C, D, E, F, G, A, B, C. A major scale in Eb would be Eb, F, G, Ab, Bb, C, D. The benefit between is that 
+One of the most popular scales is called the **major scale.** A major scale uses 7 of the 12 available notes and always follows a specific pattern - W W H W W W H, where W = a whole step and H = a half step. A major scale in C would be C, D, E, F, G, A, B, C. A major scale in Eb would be Eb, F, G, Ab, Bb, C, D. 
 
+Here's the kicker: if you are in a **major key**, you can figure out what notes are in the scale by ALWAYS FOLLOWING THAT PATTERN. This means that you can always figure out what Do-Re-Mi sounds like in every major key. Once you figure that out, the key is to start really locking into the notes Do and Sol. Do is what we call the *key center* - in other words it's the note of the key. You should always be able to find the key center even if you get lost because it matches the key. Every time I get confused in my music, I always try to find Do because it re-centers my ear and helps me get back on the right pitches. The other important note is Sol. Sol is a nice midpoint and is the second strongest sounding note, right behind Do. My ear training professor told us that if you can find Do and Sol, you can find any note in the scale (and arguably any note as well - including those that AREN'T present in the scale). 
 
+Start by singing a C major scale from Do going up to high Do. Then, practice skipping around the scale. Use the piano to check yourself. The goal is to be able to hear what the different skips between solfege syllables sound like so that when you encounter those jumps in your music, you already know what they sound like in your head. Once you can do it in the key of C, repeat the process for other keys. The more you practice this, the quicker you will be able to not only read what is on the page, but *hear in your brain* what that shift in notes sounds like. 
+
+Major scales aren't the only scales that come up in music. Another important scale to learn is the *minor scale.* The minor scale takes all the notes in the major scale, but lowers the notes on Mi, La, and Ti by a half step. In this case, the scale would then be "Do-Re-Me-Fa-Sol-Le-Te-Do." Another way to think about the minor scale is to take your major scale, but instead of starting on "Do" you start on "La". Either way you choose to think about it, you'll notice that there are the same number of whole steps and half steps - they're just shifted (W H W W H W W).
+
+Once your major scales are down, sta
 
 ## #2: Be Super Familiar With Your Intervals
 

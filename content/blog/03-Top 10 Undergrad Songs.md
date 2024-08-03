@@ -2,7 +2,7 @@
 description: "My favorite songs and memories from my collegiate choral experience"
 featured_image: ""
 tags: []
-date: "2024-07-30"
+date: "2024-08-03"
 title: "Top 10 Songs I Performed in Undergrad Choir"
 ---
 
@@ -12,7 +12,7 @@ In the recent months since my career decision, I've been spending lots of time r
 
 * Semester performed: Spring 2022
 * Ensemble: Concordanza
-* Check out our recording of the piece!
+* [Check out our recording of the piece!](https://www.instagram.com/p/CckN39rDp7H/)
 
 I sang this group with one of the first ensembles I founded. In the midst of a global pandemic and a transition of directors, choir felt in a weird place. A few of us simply wanted a place to be able to sing about the messages and emotions that we wanted to sing about, on our own time and free from the distractions and requirements of the rest of the world. Earth Song was the perfect repertoire choice for us to be able to accomplish those goals. 
 
@@ -26,11 +26,11 @@ Fun fact: we were invited to sing at a banquet for people who donate large sums 
 
 * Semester performed: Fall 2023 (Retreat)
 * Ensemble: Concert Choir
-* Check out our recording of the piece!
+* [The Kings Singers have a great recording of this!](https://www.youtube.com/watch?v=4pCUBx0BzzU)
 
 It's not a Trevor Top 10 Choir song list if there isn't any Renaissance music on there. If Ye Love Me by Thomas Tallis was one of the first choir songs that got me addicted to the artform in the first place. I first heard this piece covered by the Kings Singers right at lockdown and I was hooked. If you go back far enough on my Instagram, you can see me singing all four parts with myself... quite poorly though because I was young and did not know what I did not know :sweat_smile:.
 
-Having listened to this song a lot of times, I have a very specific idea in my head about how I thought this song was supposed to go. As such, when we got ready to perform this song at the mass service for the monastery that hosts our choir retreat at the beginning of each year, I was shocked at how much Dr. Stohlmann did things... well not as I expected. The two major differences from what I had listened to were the tempo being much faster than I'm used to - every recording I listened to took it very legato. Additionally, those who listen to the Brits sing this song know that the word "sp'rit" is a hot word to pronounce, and we did not pronounce it in the English way. Having to sing through these changes really messed with my muscle memory and I had to work hard to incorporate those changes into my singing, and I grumbled after every rehearsal when we worked on this. 
+Having listened to this song a lot of times, I have a very specific idea in my head about how I thought this song was supposed to go. As such, when we got ready to perform this song at the mass service for the monastery that hosts our choir retreat at the beginning of each year, I was shocked at how much Dr. Stohlmann did things... well not as I expected. There were two major differences from what I had listened to. The first was that the tempo was much faster - every recording I listened to took it very legato. Additionally, those who listen to the Brits sing this song know that the word "sp'rit" is a hot word to pronounce, and we did not pronounce it in the English way. Having to sing through these changes really messed with my muscle memory and I had to work hard to incorporate those changes into my singing, and I grumbled after every rehearsal when we worked on this. 
 
 Fast forward to the mass performance and I realized that the changes actually worked quite well (shocker!). Considering the space that we were in, the audience that we were singing for, and where our group was at after only 2 weeks of rehearsals, the changes made were actually quite fitting and refreshing. It was a modern take on a well-respected part of the sacred repertoire while still upholding what made the song so special. 
 
@@ -40,7 +40,7 @@ Fast forward to the mass performance and I realized that the changes actually wo
 
 * Semester performed: every Candlelight Christmas Concert!
 * Ensemble: ALL choirs!
-* Here's Robert Shaw's choir singing the piece
+* [Here's Robert Shaw's choir singing the piece](https://www.youtube.com/watch?v=vBF2PPJk4g0)
 
 O Come Emmanuel is a typical Christmas song that many people for sure know. This arrangement by Robert Shaw is unique due to the reverence communicated in the feel of the music by using thick chords and making use of the chant-part of the original melody. Since Dr. Stohlmann's arrival to Gonzaga, this is how our Candlelight Christmas Concert opens every year. 
 
@@ -52,7 +52,7 @@ The effect that this entrance has an audience is insane. The piece starts with a
 
 * Semester performed: Spring 2023
 * Ensemble: Glee Club
-* Here's a recording of the piece
+* [The Appalachian Glee Club has an excellent recording of this piece](https://www.youtube.com/watch?v=q3OeIspbP5A)
 
 This is not the piece you think it is. House of the Rising Sun was written by former Glee Club conductor Joshua Shank. He wrote this song because he wanted to find a way to memorialize the victims that died in the UpStairs Lounge in 1973 - an arson in a gay bar that killed 32 members as an attack against the LGBTQIA+ community. 
 
@@ -68,7 +68,7 @@ Why do I love this song so much then? Because I've never seen a group of singers
 
 * Semester performed: Fall 2022 (Tour)
 * Ensemble: Concert Choir
-* Here's us singing this on tour!
+* [Here's us singing this on tour!](https://youtu.be/KBHdaQn71Xo?si=gbyr8fvmUzCepfQW&t=264)
 
 This song is a story of three drums. Each drum thinks it's the favorite drum, but by the end they all realize it's important to work together as a team. You can tell from the writing which part is which drum, who tries to take center stage, and the moment when everyone realizes it's more fun to work together in order to make beautiful art. 
 
@@ -82,7 +82,7 @@ Then, all of a sudden, as if like MAGIC... the piece just fell into place. Every
 
 * Semester performed: Candlelight Christmas 2022
 * Ensemble: Concert Choir
-* Here's Robert Shaw's choir singing this piece
+* [Here's Robert Shaw's choir singing this piece](https://www.youtube.com/watch?v=kXJbJJ_nNYI)
 
 Throughout my four years at Gonzaga, I got the opportunity to sing two bucketlist songs - this one is one of them. I'm a big fan of this text specifically, and Lauridsen absolutely nails it on the head with some stunning harmonies on top of this beautiful text. It's also one of the few Tenor 1 lines I really enjoy - there's something special about just getting to float above the altos half the time. Not only that, but the Tenor 1's also have these fascinating harmonies that are vastly different from the rest of the choir and a ball to sing. This was the headliner piece for our Candlelight Christmas concert in 2022, and it landed well with our audience despite 1/3 of our choir being out for COVID for our Sunday performance.
 
@@ -92,7 +92,7 @@ Throughout my four years at Gonzaga, I got the opportunity to sing two bucketlis
 
 * Semester performed: Spring 2024
 * Ensemble: Concert Choir
-* VOCES8 has a stunning recording of this piece
+* [VOCES8 has a stunning recording of this piece](https://www.youtube.com/watch?v=sIOagJryMik)
 
 Abendlied is the other of my two bucket list songs that I've gotten to sing at Gonzaga. If you can't tell by now, I'm a real sucker for sacred choral music. This song is just so peaceful and comforting. It's fun to listen to it and let the serenity wash over you, but it's a whole different perspective when you are completely surrounded by the sound. I also really like how each part has a shining moment and shines in the texture. If the song is performed well, you can hear each part be the star of the show at certain moments without feeling like that part was suddenly thrown at you.
 
@@ -117,7 +117,7 @@ Alright, here are the top 3!
 
 * Semester performed: Spring 2024
 * Ensemble: Glee Club
-* This won a Cantus composition competition!
+* [This won a Cantus composition competition!](https://www.youtube.com/watch?v=NlwAyoFDpS0)
 
 Time is a tricky piece, but it's SO satisfying to perform, and even more satisfying to listen to as an audience member. The construct of time is weird to experience - oftentimes we don't notice what it does until we've experience time itself. This piece does just that with clever lyrics. The words make sense the first time we sing the verse, but as we repeat the verse we lose words. What's crazy is that even though we lose words, there's still the concept of an idea - but that idea is always changing. It definitely messes with your brain, but once you get it the song becomes a blast to perform. And let me tell you... we got it alright.
 
@@ -129,9 +129,9 @@ I've never seen Glee Club get so excited about performing any song. Everyone und
 
 * Semester performed: Spring 2024
 * Ensemble: Concert Choir
-* This is a newer piece!
+* [This is a newer piece!](https://youtu.be/cTh-6m_rAX4?si=e-qFDFjNzqUbEl-0&t=35)
 
-This piece was pushed into the publishing process so that we could be one of the first choirs to sing this piece. Our director is friends with this composer and sings with him in the pro-choir that she participates in. The piece was commissioned in response to the death of the husband of a member of the aformentioned pro choir. Despite this being a piece to remember the lost, the piece quickly pivots to an attitude of hope and contentment with the future. 
+This piece was pushed into the publishing process so that we could be one of the first choirs to sing this piece. Our director is friends with this composer and sings with him in the pro-choir that she participates in. The piece was commissioned in response to the death of the husband of a member of the aforementioned pro choir. Despite this being a piece to remember the lost, the piece quickly pivots to an attitude of hope and contentment with the future. 
 
 This song really resonated with me because at the time I was not sure what my life would look like when I graduated. The message of this song reminded me that even though things appear dark and grim now, my future will be filled with prosperity, happiness, and contentment. This message, combined with the evaocate music and harmonies brought me to tears every time I sang this piece. It's a miracle that I didn't burst out into tears on stage. 
 
@@ -143,7 +143,7 @@ Even now that I have a better sense of direction in my life, I still go back to 
 
 * Semester performed: all the time :)
 * Ensemble: Glee Club
-* Here's a recording of the piece
+* [Here's a recording of the piece](https://www.youtube.com/watch?v=syXP9SRkh7U)
 
 This song is so much fun. While it technically may be the "easiest" piece on this list, I have countless memories attached to this song. Performing this throughout my time in the Glee Club gave me so much joy and satisfaction with this artform unlike any other kind of performance I've done. But to get there, I should probably tell you the story behind this piece.
 
@@ -151,7 +151,7 @@ I'm going into the fall semester of my junior year of college. This was the firs
 
 For the next few minutes, Dr. Stohlmann talked to us about the Glee Club. She reminded us that the Glee Club was the historic choir on campus - they were the ensemble that was the best of the best, not just at Gonzaga but across the nation. She told us that she saw the numbers of the people registered for Glee Club and it was very low and she wanted to see the membership of the group go up. 
 
-Then the kicker came. Stohlmann told us that she doesn't believe that non-auditioned doesn't mean not good. Most choral programs tell us otherwise. But having the historic significance that the Glee Club possesses, Dr. Stohlmann told us that Glee Club can't give the same good opportunities to Glee Club with the numbers that small. So she encouraged us to enroll and show up to the first rehearsal the next day. 
+Then the kicker came. Stohlmann told us that she doesn't believe that non-auditioned doesn't mean not good. Most choral programs tell us otherwise. But having the historic significance that the Glee Club possesses, Dr. Stohlmann told us that Glee Club can't get the same good opportunities as the other choirs with the numbers that small. So she encouraged us to enroll and show up to the first rehearsal the next day. 
 
 I'm not sure what I was thinking. There wasn't really much thought honestly. In fact, there was a lot of thought *against* it. I had witnessed Discantus and Glee Club not get treated with the same respect in the past, and at the time I wasn't convinced that us joining the Glee Club was going to fix anything.
 
@@ -167,12 +167,14 @@ There's also two soloists that sing throughout the piece, and I was fortunate en
 
 The result was mind blowing. I've sung with semi-pro choirs. I've had some damn good solo performances in my day. I've performed on the concert stage of choral conferences. But the response the Glee Club received after that first performance of San Bonani still remains the best audience response I've ever received for a performance. I mean the crowd just completely went ballistic. So much noise, so much applause, so much love. It was that moment that everyone in the Glee Club realized that we could be worth something. 
 
-It was also that initial performance of San Bonani that Glee Club took off. After that concert, Nicolas Marrero (Class of 2024) joined us for our Candlelight Christmas concert. Then come the new semester, half the tenors and basses from concert choir jumped ship and sang in the Glee Club. At the time, Glee Club was a breath of fresh air - in this first year of transition the Concert and Chamber choirs were pretentious and hard to work in. Glee Club gave everybody a moment to breathe and remind ourselves why we sing in the first place. By the end of Stohlmann's first year, the Glee Club more than doubled in size. Then at the start of Dr. Stohlmann's second year, almost every tenor or bass that sang in Concert Choir was also singing in the Glee Club. In the matter of just one year, the attitude of the program shifted from "when I get into Concert Choir that's where I will stay" to "If you aren't in the Glee Club we are going to bully the living daylights out of you and remind you to join the Glee Club."
+It was also that initial performance of San Bonani that caused the Glee Club to completely take off. After that concert, Nicolas Marrero (Class of 2024) joined us for our Candlelight Christmas concert. Then once the new semester rolled around, half the tenors and basses from concert choir jumped ship and sang in the Glee Club. At the time, Glee Club was a breath of fresh air - in this first year of transition the Concert and Chamber choirs were pretentious and hard to work in. Glee Club gave everybody a moment to breathe and remind ourselves why we sing in the first place. By the end of Stohlmann's first year, the Glee Club more than doubled in size. Then at the start of Dr. Stohlmann's second year, almost every tenor or bass that sang in Concert Choir was also singing in the Glee Club. In the matter of just one year, the attitude of the program shifted from "when I get into Concert Choir that's where I will stay" to "If you aren't in the Glee Club we are going to bully the living daylights out of you and remind you to join the Glee Club."
 
 Since that initial concert we've continued to have San Bonani in our repertoire. High school and middler schoolers love it, so every time we go on one of our local tours promoting choral music in the Spokane public schools we always pull it out for the wow factor. Also, since San Bonani was the sole reason so many people joined Glee Club, Dr. Stohlmann let us bring the piece back as the opener to the final spring concert in May of 2023 - and the audience remembered it and went ballistic throughout the entire song. 
 
-San Bonani kickstarted my change in attitude about choral singing. I stopped becoming a jerk and started caring more about people and the art form. Since then, I've worked hard to be kind to everyone in all ensembles, and I've done my best to truly foster connections between all the choirs. The response I got at my last concert this past May made me content and pleased knowing that I successfully did that when members across the choral department came to give me so much love and support. If Stohlmann hadn't given me that nudge, I'd definitely still be hunting for a tech job and not be completely satisfied with my life. 
+San Bonani kickstarted my change in attitude about choral singing. I stopped becoming a snot and started caring more about people and the art form. Since then, I've worked hard to be kind to everyone in all ensembles, and I've done my best to truly foster connections between all the choirs. The response I got at my last concert this past May made me content and pleased knowing that I successfully did that when members across the choral department came to give me so much love and support. If Stohlmann hadn't given me that nudge, I'd definitely still be hunting for a tech job and not be completely satisfied with my life. 
 
-*What I learned:* No one deserves lesser opportunities because of the choir they are in. Treat everyone with kindness and love - after all, we all are making music together and getting thee opportunity to spread various emotions into the ears of our listeners.
+*What I learned:* No one deserves lesser opportunities because of the choir they are in. Treat everyone with kindness and love - after all, we all are making music together and getting the opportunity to spread various emotions into the ears of our listeners.
+
+___
 
 There you have it, all of my favorite pieces I sang while I was in the choirs at Gonzaga University. These songs will leave lasting memories for me for the rest of my life, and I can't wait to create even more memories during my last (???) year here at Gonzaga. Choral music is such a beautiful artform to participate in, both professionally and recreationally. I hope that if you are participating in a choir during your educational experience, you are taking advantage of every moment and keeping your mind alert to learning experiences that will benefit you beyond the classroom. When doing this, you too can look back on your choral experience in undergrad and recall all the memories that made your singing career that much more special :smile:.
