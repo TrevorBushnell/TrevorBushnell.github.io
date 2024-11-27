@@ -1,8 +1,8 @@
 ---
-description: "Effective strategies that I have learned to lead a good secional rehearsal"
+description: "People talk about loving the circle of fifths but can't give a good reason behind it. Here's why the cicrle of fifths is ACTUALLY awesome."
 featured_image: ""
 tags: []
-date: "2024-10-01"
+date: "2025-"
 title: "Why The Circle of Fifths is REALLY Cool (From A Mathematician)"
 ---
 

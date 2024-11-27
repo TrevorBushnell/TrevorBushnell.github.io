@@ -2,7 +2,7 @@
 description: "Music theory is slept on by choral singers... here's why I am BETTER as a chorister because of theory"
 featured_image: ""
 tags: []
-date: "2024-08-15"
+date: "2025-"
 title: "Why Choral Singers Should Learn Music Theory"
 ---
 
