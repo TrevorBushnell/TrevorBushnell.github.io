@@ -2,7 +2,7 @@
 description: "People talk about loving the circle of fifths but can't give a good reason behind it. Here's why the cicrle of fifths is ACTUALLY awesome."
 featured_image: ""
 tags: []
-date: "2025-"
+date: "2025-12-31"
 title: "Why The Circle of Fifths is REALLY Cool (From A Mathematician)"
 ---
 
@@ -26,4 +26,19 @@ This "Line of Fifths" in some ways makes more sense in terms of the pattern beca
 
 In this article, I'll give you **three justifications for why the Circle of Fifths is indeed a circle.** I'll be honest, if you aren't a music theory nerd then you will definitely not like this article (sorry). For those that are grossly in love with the circle of fifths, read on - hopefully you'll learn something new by the end of this blog :smile:.
 
-## Reason #0: Key 
+## Reason #1: Key Relations
+
+I've mentioned before that moving upwards by fifth is as simple as moving one spot to the right on the circle. Similarly, moving one spot to the left
+
+
+
+
+
+
+
+
+
+
+
+
+

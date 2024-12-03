@@ -2,7 +2,7 @@
 description: "Music theory is slept on by choral singers... here's why I am BETTER as a chorister because of theory"
 featured_image: ""
 tags: []
-date: "2025-"
+date: "2025-12"
 title: "Why Choral Singers Should Learn Music Theory"
 ---
 
@@ -16,7 +16,7 @@ It's important to note that I did **not** say that I can actually sight read wel
 
 Having a good understanding of music theory allows you to be a more versatile singer that is capable of any job. You can't have a job as a section leader in a church choir if all you have is your ear. Most jobs hand you the music the morning of the service you are about to sing. You get potentially 1-2 run-throughs before the service to learn your music, and then you have to simply nail the music in the service. Hate to break it to you, but your ear alone is never going to save you there - the other singers in the church choir will be as clueless as you are and your ear is not going to be able to latch on to someone who is "correctly" singing your part. You have to be able to correctly sing your part without any help. 
 
-Luckily, adding music theory to your musical thought process is something that can be trained and practiced. After my freshman year of choir, I realized that if I wanted to succeed in my choral life beyond college, I was going to need to develop some musical skills. As such, I spent the next three years learning how to sight read and the basics of music theory so that I could use it in my rehearsal process - and I'm still actively learning and practicing those skills. Eventually, I got to the point where my musical output was far greater than just being able to listen for my part. I'm not like Dr. Stohlmann - I won't nail every note on a first read - but my consistency both with my notes and my understanding of how my parts fits in with context is far greater than most other singers. It's why I've had the opportunity to be able to audition into a semi-pro choir while I'm still in college and be offered church jobs without having to apply and audition for them. 
+Luckily, adding music theory to your musical thought process is something that can be trained and practiced. After my freshman year of choir, I realized that if I wanted to succeed in my choral life beyond college, I was going to need to develop some musical skills. As such, I spent the next three years learning how to sight read alongside the basics of music theory so that I could use it in my rehearsal process - and I'm still actively learning and practicing those skills. Eventually, I got to the point where my musical output was far greater than just being able to listen for my part. I'm not like Dr. Stohlmann - I won't nail every note on a first read - but my consistency both with my notes and my understanding of how my part fits in with context is far greater than most other singers. It's why I've had the opportunity to be able to audition into a semi-pro choir while I'm still in college and be offered church jobs without having to apply and audition for them. 
 
 In this blog post, I want to share with you the **5 music theory concepts that I consistently use when learning new music.** Some of these will indeed be sight reading related, but some of them are general music theory concepts that go beyond just reading your notes on the page. If music theory sounds scary to you, I'll also have you know that *everything I'll talk about in this post does not go beyond a first-semester collegiate course in music theory.* This means that you can very easily learn and understand these concepts and practice them yourself in a short amount of time. If you are interested in leveling up your choral game to be able to take gigs that require a higher level of musicianship beyond that of the collegiate choral environment, then I promise you that these skills I'm about to share will take your choral game to the next level.
 
@@ -71,7 +71,9 @@ Start by singing a C major scale from Do going up to high Do. Then, practice ski
 
 Major scales aren't the only scales that come up in music. Another important scale to learn is the *minor scale.* The minor scale takes all the notes in the major scale, but lowers the notes on Mi, La, and Ti by a half step. In this case, the scale would then be "Do-Re-Me-Fa-Sol-Le-Te-Do." Another way to think about the minor scale is to take your major scale, but start on "La" instead of "Do". Either way you choose to think about it, you'll notice that there are the same number of whole steps and half steps - they're just shifted (W H W W H W W).
 
-Once your major scales are down, sta
+BONUS: There's actually multiple minor modes, and you may encounter other ones when you are singing. "La" based minor is what we call the "natural minor" scale. However, the natural minor scale is missing "Ti" - which is INCREDIBLY powerful because "Ti" always wants to go to "Do". As such, composers will simply change the "Te" in the natural minor scale to "Ti" by raising it a half step. This means that the new scale is "Do-Re-Me-Fa-Sol-Le-Ti-Do", or "La-Ti-Do-Re-Mi-Fa-Si-La" in La-based minor. This scale is especially common in the common practice era with composers such as Bach. There's also another type of minor called the *melodic minor scale* that raises "Le" and "Te" up half steps to create "La" and "Ti", meaning the new scales would be "Do-Re-Me-Fa-Sol-La-Ti-Do" or "La-Ti-Do-Re-Mi-Fi-Si-La" for La-based minor. This scale is sometimes used by composers to create more interesting melodies. Once you get used to major and natural minor scales, I would definitely take the time to get familiar with these scales because when you start finding notes that are consistently sharped all the time, chances are you may be sitting in a minor key using one of the different types of minor scales.
+
+The only way to TRULY familiarize yourself with these different scales is to sing through them. This is why "Do" and "Sol" are so important - they are the same in each type of scale. As such, if you are super familiar with how to build your scales, you can find the note that you need by working your way up and down the scale. This is incredibly helpful for working with other people.
 
 ## #2: Be Super Familiar With Your Intervals
 
@@ -87,7 +89,7 @@ Once your major scales are down, sta
 
 ## #4: Recognize Your Function in a Chord
 
-**CONTENT TO GO HERE**
+*CONTENT TO GO HERE**
 
 
 

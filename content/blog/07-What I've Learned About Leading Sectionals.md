@@ -2,7 +2,7 @@
 description: "Effective strategies that I have learned to lead a good sectional rehearsal"
 featured_image: ""
 tags: []
-date: "2025-12-"
+date: "2025-12-31"
 title: "What I've Learned About Leading Sectionals"
 ---
 
