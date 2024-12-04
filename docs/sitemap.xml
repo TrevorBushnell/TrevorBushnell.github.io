@@ -12,6 +12,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://TrevorBushnell.github.io/blog/04-comparing-the-musical-genius-of-craig-hella-johnson-and-js-bach/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://TrevorBushnell.github.io/blog/03-top-10-undergrad-songs/</loc>
     <lastmod>2024-08-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -48,10 +53,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://TrevorBushnell.github.io/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://TrevorBushnell.github.io/blog/06-why-choral-singers-should-learn-music-theory/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
