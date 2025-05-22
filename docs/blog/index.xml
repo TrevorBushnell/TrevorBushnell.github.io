@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Trevor Bushnell</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://TrevorBushnell.github.io/blog/</link>
     <description>Recent content in Blogs on Trevor Bushnell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://TrevorBushnell.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comparing the Musical Genius of Craig Hella Johnson and JS Bach</title>
-      <link>http://localhost:1313/blog/04-comparing-the-musical-genius-of-craig-hella-johnson-and-js-bach/</link>
+      <link>https://TrevorBushnell.github.io/blog/04-comparing-the-musical-genius-of-craig-hella-johnson-and-js-bach/</link>
       <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/04-comparing-the-musical-genius-of-craig-hella-johnson-and-js-bach/</guid>
+      <guid>https://TrevorBushnell.github.io/blog/04-comparing-the-musical-genius-of-craig-hella-johnson-and-js-bach/</guid>
       <description>There are many incredible stories that can - and have been told through choral music, from historical and religious stories that have stood the test of time to more contemporary moments in our recent memory. I&amp;rsquo;ve also enjoyed analyzing how composers take inspiration from previous composing giants in history while still adding something creative and unique to the style. As such, when I had the opportunity to talk about whatever I wanted for my final project in music theory, I thought this would be the perfect moment to reflect on both of these ideas through comparing and contrasting two of my favorite choral works of all time.</description>
     </item>
     <item>
       <title>Top 10 Songs I Performed in Undergrad Choir</title>
-      <link>http://localhost:1313/blog/03-top-10-undergrad-songs/</link>
+      <link>https://TrevorBushnell.github.io/blog/03-top-10-undergrad-songs/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/03-top-10-undergrad-songs/</guid>
+      <guid>https://TrevorBushnell.github.io/blog/03-top-10-undergrad-songs/</guid>
       <description>In the recent months since my career decision, I&amp;rsquo;ve been spending lots of time reflecting on the positive experiences I&amp;rsquo;ve had through my first bachelor&amp;rsquo;s degree at Gonzaga. It&amp;rsquo;s been a great way to calm myself down about the change to come and remind myself that these last four years have not been a waste. In my time reflecting I&amp;rsquo;ve been reminded of the many memories and fantastic songs I&amp;rsquo;ve had the honor to sing.</description>
     </item>
     <item>
       <title>What I&#39;ve Learned From Tech That I&#39;m Applying to Music (And You Should Apply Too!)</title>
-      <link>http://localhost:1313/blog/02-what-ive-learned-from-tech/</link>
+      <link>https://TrevorBushnell.github.io/blog/02-what-ive-learned-from-tech/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/02-what-ive-learned-from-tech/</guid>
+      <guid>https://TrevorBushnell.github.io/blog/02-what-ive-learned-from-tech/</guid>
       <description>I spent 4 years studying to become a data scientist. Countless hours of readings, projects, and banging my head against a wall for hours because my code was not working. I took every statistics and data science class under the sun. I worked on my own coding projects outside of school. I even had an internship in tech as a software developer. I did my fair share in the tech world, and I was all set up for success.</description>
     </item>
     <item>
       <title>The Beginning of a New Career</title>
-      <link>http://localhost:1313/blog/01-transitioning-careers/</link>
+      <link>https://TrevorBushnell.github.io/blog/01-transitioning-careers/</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/01-transitioning-careers/</guid>
+      <guid>https://TrevorBushnell.github.io/blog/01-transitioning-careers/</guid>
       <description>Hi there! If you are reading this, then chances are you&amp;rsquo;ve heard in some way or another about my recent life update&amp;hellip; but yes the rumors have now been worked into reality:&#xA;I am now pursuing a career as a choral director!&#xA;I&amp;rsquo;m pretty excited about this opportunity to actually pursue what I want and continue to get to encourage others to continue singing as a form of artistic expression.</description>
     </item>
   </channel>
