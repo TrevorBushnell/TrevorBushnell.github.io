@@ -18,8 +18,8 @@ Feel free to reach out to me on any of the platforms listed below. Whether it's 
 
 **Other Portfolios:**
 
-* [Leadership portfolio](https://TrevorBushnell.github.io/leadership-portfolio) - highlighting key moments in my leadership journey throughout my time at Gonzaga
-* [Tech portfolio](https://TrevorBushnell.github.io/tech-portfolio) - showcasing my projects surrounding data science and software development
+* [Leadership portfolio](https://trevorbushnell.com/leadership-portfolio) - highlighting key moments in my leadership journey throughout my time at Gonzaga
+* [Tech portfolio](https://trevorbushnell.com/tech-portfolio) - showcasing my projects surrounding data science and software development
 * [GitHub](https://github.com/TrevorBushnell): I still actively participate in various forms of software development, but you can find all my progress with various computational musicology projects here
 
 ![](/images/self_portrait_2.jpg)
