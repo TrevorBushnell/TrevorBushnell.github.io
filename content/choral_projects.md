@@ -2,6 +2,7 @@
 title: Choral Projects
 featured_image: '/images/conducting_2.jpg'
 description: " "
+weight: 4
 ---
 
 ![](/images/conducting_1.jpg)
@@ -14,7 +15,7 @@ I had an absolute blast teaching and conducting AI generated music. It was an in
 
 If you are interested in the code, you can click [here](https://github.com/TrevorBushnell/Singing-AI-Bach). You can also watch my lecture recital featuring myself conducting this choir below:
 
-{{< youtube "Mjl4pMABDqw" >}}
+{{< youtube Mjl4pMABDqw >}}
 
 ## Concordanza
 

@@ -1,7 +1,7 @@
 ---
 title: "Trevor Bushnell"
 
-description: "aspiring choral educator and tenor"
+description: "tenor, composer, and choral educator"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 featured_image: '/images/college_hall_banner_1.jpg'

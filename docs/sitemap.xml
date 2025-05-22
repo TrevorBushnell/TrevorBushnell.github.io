@@ -2,57 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://TrevorBushnell.github.io/blog/</loc>
+    <loc>http://localhost:1313/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-12-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/</loc>
+    <loc>http://localhost:1313/compositions/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/choral_projects/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-12-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/blog/04-comparing-the-musical-genius-of-craig-hella-johnson-and-js-bach/</loc>
+    <loc>http://localhost:1313/blog/04-comparing-the-musical-genius-of-craig-hella-johnson-and-js-bach/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/blog/03-top-10-undergrad-songs/</loc>
+    <loc>http://localhost:1313/blog/03-top-10-undergrad-songs/</loc>
     <lastmod>2024-08-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/blog/02-what-ive-learned-from-tech/</loc>
+    <loc>http://localhost:1313/blog/02-what-ive-learned-from-tech/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/blog/01-transitioning-careers/</loc>
+    <loc>http://localhost:1313/blog/01-transitioning-careers/</loc>
     <lastmod>2024-07-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/about/</loc>
+    <loc>http://localhost:1313/compositions/amazing-grace/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/categories/</loc>
+    <loc>http://localhost:1313/compositions/be-still-my-soul-ssaa/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/choral_projects/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/compositions/</loc>
+    <loc>http://localhost:1313/compositions/inner-voices-satb/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://TrevorBushnell.github.io/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://TrevorBushnell.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

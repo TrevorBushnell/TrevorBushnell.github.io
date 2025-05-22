@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compositions on Trevor Bushnell</title>
+    <link>http://localhost:1313/compositions/</link>
+    <description>Recent content in Compositions on Trevor Bushnell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/compositions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazing Grace (SATB/TTBB)</title>
+      <link>http://localhost:1313/compositions/amazing-grace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compositions/amazing-grace/</guid>
+      <description>Score Preview &lt;!DOCTYPE html&gt; Amazing Grace PERUSAL SCORE About The opportunity to combine vocal styles is something I don’t see enough in choral music. I’m inspired by composers like Rob Dietz and Jennifer Lucy Cook who find unique ways to integrate the pop sound into a traditional choral environment. However, there are very few choral works that combine traditional classical singing with the barbershop style (if at all). Since barbershop has also been a very formative part of my musical experience, I wanted to write a piece that combines those two styles.</description>
+    </item>
+    <item>
+      <title>Be Still my Soul (SSAA)</title>
+      <link>http://localhost:1313/compositions/be-still-my-soul-ssaa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compositions/be-still-my-soul-ssaa/</guid>
+      <description>Recordings Score Preview &lt;!DOCTYPE html&gt; Be Still My Soul PERUSAL SCORE About My first introduction to choral music was through this beautiful melody written by Jean Sibelius. As someone who has struggled with Asperger’s syndrome his entire life, I’ve had many challenging situations in my life that go unnoticed by most people. Since I’ve worked hard to overcome my mental struggles, many people write me off when I make a social mistake and don’t understand that many times I genuinely have no idea what I’ve done is wrong or hurtful.</description>
+    </item>
+    <item>
+      <title>Inner Voices (SATB)</title>
+      <link>http://localhost:1313/compositions/inner-voices-satb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/compositions/inner-voices-satb/</guid>
+      <description>Silver medal winner in the Composition division of MusicFest Northwest 2025&#xA;Recordings Score Preview &lt;!DOCTYPE html&gt; Inner Voices PERUSAL SCORE About When I first began writing this piece, I had just started my fifth year of my undergraduate degree. The previous May I walked across the stage fully anticipating to receive a BS in Applied Mathematics and move on with life to a big boy job in data science. But something about choir lurked in the back of my brain, and I felt called to pursue a degree in choral conducting.</description>
+    </item>
+  </channel>
+</rss>

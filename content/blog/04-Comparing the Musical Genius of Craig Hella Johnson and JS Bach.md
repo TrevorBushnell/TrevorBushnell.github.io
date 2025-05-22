@@ -1,5 +1,5 @@
 ---
-description: "Two of my favorite choral works are Considering Matthew Shepard and the St. Matthew Passion. Unsurprisingly, there are many similarities to these two works"
+description: "Two of my favorite choral works are Considering Matthew Shepard and the St. Matthew Passion. Unsurprisingly, there are many similarities to these two works."
 featured_image: ""
 tags: []
 date: "2024-12-03"
@@ -41,17 +41,29 @@ One final note in the over-arching form of both works is that both feature diffe
 
  Both works have an opening chorus, but one is more elaborate and sophisticated than the other. The *St. Matthew Passion* includes an opening chorus that is about 8 minutes long and utilizes every musician in the room. The first chorus exclaims that they see Jesus coming, while the second chorus echoes with "Who?", "How?", and "Where?" It's an intense choral that is in 12/8 and feels like a slow, rolling 4. Additionally, there is a third soprano line that sings a traditional hymn melody over the top that is a plea for mercy. While this chorus is long and elaborate, it is constrained to only one movement before the actual story commences.
 
+<<<<<<< HEAD
+{{< youtube RnkSFKJ4rC0 >}}
+=======
 {{< youtube id="RnkSFKJ4rC0" >}}
+>>>>>>> 1a32c4f7b93a5c0a6c4985deeea3f333448770bd
 
 Johnson decides to push the boundaries of the traditional opening chorus by including an entire prologue section of the work to serve at setting the stage. In this prologue, not only are we introduced to Matthew as a character, but we are also introduced to the **setting** of our entire work - the beautiful fields of Wyoming. The prologue takes about 15-20 minutes to sing through, and upon completion I find that I am even more immersed with all aspects of the story than I am with the Bach passions because of the intentional work Johnson takes to make sure that the audience is adequately prepared to receive this tragic tale. 
 
 I've included two movements from the Prologue - the first movement relates to the development of the setting:
 
+<<<<<<< HEAD
+{{< youtube ptSFPhzcBYk >}}
+
+The second movement relates to the development of the character of Matthew Shepard:
+
+{{< youtube -WWP2zrEWvA >}}
+=======
 {{< youtube id="ptSFPhzcBYk" >}}
 
 The second movement relates to the development of the character of Matthew Shepard:
 
 {{< youtube id="-WWP2zrEWvA" >}}
+>>>>>>> 1a32c4f7b93a5c0a6c4985deeea3f333448770bd
 
 
 
@@ -63,18 +75,41 @@ The *St. Matthew Passion* does recitative almost exclusively through a narrator 
 
 The following recitative from the *St. Matthew Passion* is describing Peter's realization of his triple denial of Jesus upon hearing the crow of the rooster after his third denial.
 
+<<<<<<< HEAD
+{{< youtube ZwVW1ttVhuQ 5091 5178>}}
+=======
 {{< youtube id="ZwVW1ttVhuQ" start=5091 end=5178 >}}
+>>>>>>> 1a32c4f7b93a5c0a6c4985deeea3f333448770bd
 
 *Considering Matthew Shepard* on the other hand does not have a solo singer carrying the story throughout its recitatives. In fact, there's no singing at all during any recitative moment - all moments of story are completely told through direct speech. While there is simple music playing underneath the recitation that supports the story in that moment, I find that having the recitative spoken allows for the music to be that much more impactful due to the fact that the singing stops for a brief moment in time. The recitation is spoken by various members of the ensemble throughout the show, allowing the work to not solely fall on the shoulders of one individual. With how intense the story of Matthew Shepard is, I think this was a very smart call by Johnson.
 
 The recitative I chose to show off from *Considering Matthew Shepard* is the description of the negative protests from the Westboro Baptist Church that happened during Matthew's funeral.
 
+<<<<<<< HEAD
+{{< youtube UE8mXooep2A >}}
+=======
 {{< youtube id="UE8mXooep2A" >}}
+>>>>>>> 1a32c4f7b93a5c0a6c4985deeea3f333448770bd
 
 ### Aria
 
 Both works also feature arias, and both due aim to cause the audience to feel a certain way based on the instrumentation and the choice of voice type for the solo. In the *St. Matthew Passion*, the choice of voice part was instrumental in creating feeling moments for the audience to connect with the passion story. For example, the tenor arias in Bach tend to be quick, piercing, and agitated. As such, the tenor arias tend to be the hardest arias to sing in the entire work. 
 
+<<<<<<< HEAD
+{{< youtube ZwVW1ttVhuQ 2376 2774>}}
+
+Alto arias on the other hand have much more melodic qualities to their arias and as such tend to be "easier" to sing (although I put "easier" in quotes because is any Bach truly *easy* to sing?! :stuck_out_tongue:).
+
+{{< youtube Zry9dpM1_n4 >}}
+
+In *Considering Matthew Shepard*, the way Johnson gets the audience to feel a certain way is not through the *voice type* that is singing the aria, but rather the *genre* the soloist is singing in. *Considering Matthew Shepard* is what we would consider a **fusion** because of all the different styles of music present throughout the work - including classical, country, jazz, gospel, and more. As such, the genre tends to dictate the emotion that the audience feels more than the voice type of the singer. For example, a tenor, soprano, and bass-baritone all sing for dramatic and intense moments in the piece, but they all do it in the classical style. Meanwhile, there's an absolutely stunning alto jazz solo in the work for a more intimate and agitated moment in the piece. 
+
+{{< youtube OChQz4072rM >}}
+
+There's also a baritone solo in the beginning of the work sung with a bit of a country twang to set the scene for The Fence prior to Matthew's death. 
+
+{{< youtube qeiWWRYmPsA >}}
+=======
 {{< youtube id="ZwVW1ttVhuQ" start=2376 end=2774 >}}
 
 Alto arias on the other hand have much more melodic qualities to their arias and as such tend to be "easier" to sing (although I put "easier" in quotes because is any Bach truly *easy* to sing?! :stuck_out_tongue:).
@@ -88,6 +123,7 @@ In *Considering Matthew Shepard*, the way Johnson gets the audience to feel a ce
 There's also a baritone solo in the beginning of the work sung with a bit of a country twang to set the scene for The Fence prior to Matthew's death. 
 
 {{< youtube id="qeiWWRYmPsA" >}}
+>>>>>>> 1a32c4f7b93a5c0a6c4985deeea3f333448770bd
 
 ### Chorales
 
@@ -95,17 +131,29 @@ This is where I spent the majority of my time and research, as chorales are the 
 
 I've included a couple of chorales from the *St. Matthew Passion* to feature here. The first chorale, titled "Ich will hier dir stehen", translates to "I stand here close beside thee" and is sung after Peter claims to stand beside Jesus entirely despite Jesus correctly predicting that Peter will deny Him three times. 
 
+<<<<<<< HEAD
+{{< youtube ZwVW1ttVhuQ 2200 2267>}}
+
+The second chorale, titled "Bin ich gleich von dir gewichen", translates to "Tho' from Thee temptation lured me" and is sung after Peter denies Jesus three times and the alto sings "Erbarme dich mein gott".
+
+{{< youtube ZwVW1ttVhuQ 5554 5618>}}
+=======
 {{< youtube id="ZwVW1ttVhuQ" start=2200 end=2267 >}}
 
 The second chorale, titled "Bin ich gleich von dir gewichen", translates to "Tho' from Thee temptation lured me" and is sung after Peter denies Jesus three times and the alto sings "Erbarme dich mein gott".
 
 {{< youtube id="ZwVW1ttVhuQ" start=5554 end=5618 >}}
+>>>>>>> 1a32c4f7b93a5c0a6c4985deeea3f333448770bd
 
 *Considering Matthew Shepard* approaches chorales very differently. For starters, Johnson wrote many of the choir numbers to be a general chorus number rather than something that resembled a simple and traditional hymn. However, there are three distinct moments in *Considering Matthew Shepard* that are embedded inside other movements that resemble chorales from Bach's days. However, Johnson again finds ways to twist his chorales to fit a modern age of music making. I'll discuss these three moments separately and in the order that they appear in the work.
 
 The first chorale moment ends the Prologue in the movement "We Tell Each Other Stories" after a gorgeous soprano solo. 
 
+<<<<<<< HEAD
+{{< youtube CYEO3nJqSC4 141 240>}}
+=======
 {{< youtube id="CYEO3nJqSC4" start=141 end=240 >}}
+>>>>>>> 1a32c4f7b93a5c0a6c4985deeea3f333448770bd
 
 In Bach chorales, everything is very choral - generally each beat you shift to a new chord. However, Johnson instead only uses two chords throughout the entire song - A major and D major. The basses and baritones are droning the root and fifth of these chords while the sopranos, altos, and tenors using non chord tones to cause this feeling of forward movement throughout the piece. The lack of chords also draws more attention to the poetry:
 
@@ -125,13 +173,21 @@ Through this text, Johnson has written a chorale that acts as an invitation. How
 
 The second chorale moment comes near the middle of the work, during the reprise of "We Are All Sons."
 
+<<<<<<< HEAD
+{{< youtube JlzFFVa228Q 410 438 >}}
+=======
 {{< youtube id="JlzFFVa228Q" start=410 end=438 >}}
+>>>>>>> 1a32c4f7b93a5c0a6c4985deeea3f333448770bd
 
 This moment is similar to a Bach chorale in that each beat is a unique and distinct chord that moves us through the piece. What's unique here is the voicing. Usually chorales are written in standard SATB form, but this one is written in TTBB form for just low voice singers. Low-voice choirs tend to have a depth to their sound that can't be replicated in other voices, which allows the impact with the audience to be more resonant than with a traditionally voiced choir.
 
 The final chorale comes in the middle of a choir gospel number called "All Of Us." 
 
+<<<<<<< HEAD
+{{< youtube 1yBGot6GpGA 151 212 >}}
+=======
 {{< youtube id="1yBGot6GpGA" start=151 end=212 >}}
+>>>>>>> 1a32c4f7b93a5c0a6c4985deeea3f333448770bd
 
 This is the most similar to a traditional Bach chorale with each beat having a unique chord and voiced in SATB format. However, Johnson still creates a soundscape that is modern despite all these similarities. For starters, Johnson loves to add 7ths on all of his chords. Bach tends to reserve his addition of 7ths to chords to mostly ii and V chords - only rarely does he add them to a iv or a vi chord. Johnson on the other hand litters his chords with 7ths and suspensions. The addition of these chords creates a much fuller ensemble sound that pairs well with the gospel theme of this movement. Johnson also occasionally will split the choir into 6 parts by adding 2 soprano parts and 2 bass parts. This means that there is almost always a note in the chord doubled by another voice, which again creates that fuller choral sound to pair with the intensity of the gospel style.
 
@@ -139,7 +195,11 @@ This is the most similar to a traditional Bach chorale with each beat having a u
 
 I hope that you enjoyed this journey through the *St. Matthew Passion* and *Considering Matthew Shepard.* If this was interesting for you, I would highly encourage you to listen through both of these works in full. While there are many recordings of each, my favorite recording of the *St. Matthew Passion* is the one done by the Netherlands Bach Society on YouTube. 
 
+<<<<<<< HEAD
+{{< youtube ZwVW1ttVhuQ >}}
+=======
 {{< youtube id="ZwVW1ttVhuQ" >}}
+>>>>>>> 1a32c4f7b93a5c0a6c4985deeea3f333448770bd
 
 As for *Considering Matthew Shepard*, the premiere of the work recorded with Conspirare - which Craig Hella Johnson founded and currently conducts - hits home perfectly for me. 
 
