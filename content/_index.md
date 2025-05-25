@@ -37,7 +37,7 @@ My name is Trevor Bushnell! I'm a tenor from Spokane, WA and a huge choir nerd! 
 
 ### 🕒 What I'm Currently Doing 🕒
 
-Now that I've finished undergrad, I'm currently leaning into the musical outlets that I have here in Spokane before I go off to graduate studies. Right now, this looks like serving as the Assistant Conductor for the Spokane barbershop chorus Lilac City Voices and singing with semi-professional ensembles like the Spokane Symphony Chorale, the quartet Odd Men Out, and various church choirs around Spokane.
+Now that I've finished undergrad, I'm currently leaning into the musical outlets that I have here in Spokane before I go off to graduate studies. Right now, this looks like serving as the Assistant Conductor for the Spokane barbershop chorus Lilac City Voices and singing with semi-professional ensembles like the Spokane Symphony Chorale, the quartet Spot the Difference, and various church choirs around Spokane.
 
 In my spare time, I write blog articles (published here!) about my experience shifting careers and what I'm learning about in music. The goal of the blog is to inspire other people to either pursue music, find comfort and peace when it comes to transitioning your career, or both! I'm also an active choral composer.
 
