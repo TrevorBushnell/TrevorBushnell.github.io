@@ -7,6 +7,10 @@ weight: 4
 
 ![](/images/conducting_1.jpg)
 
+## Spot the Difference
+
+
+
 ## Bach AI Choir (Spring 2024)
 
 As a part of my honors thesis project for my undergrad degree, the Bach AI choir was a chamber ensemble made up of singers from Gonzaga's Concert Choir singing various AI generated Bach chorales. The ensemble sang on my lecture recital aimed at highlighting the differences between Bach and AI choral music and showcasing why choral singing is fundamentally a human artform.
