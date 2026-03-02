@@ -9,7 +9,9 @@ weight: 4
 
 ## Spot the Difference
 
+Spot the Difference is my active barbershop quartet. Founded in 2025, we're a group of singers who appreciate the artform of barbershop but come from classical backgrounds. This gives us the freedom to perform barbershop charts with a sound that has more depth than the traditional ping you get from a barbershop quartet. We also like to sing more traditional choral works on top of the standard barbershop charts, as well as explore barbershop charts that expand the harmonic vocabulary of the barbershop artform. We do gigs of all kinds, from concerts in retirement homes to tree lighting events to funerals - you name it! If you're interested in booking us, feel free to reach out so we can get you on our calendar.
 
+![](/images/spotthedifference.jpg)
 
 ## Bach AI Choir (Spring 2024)
 
